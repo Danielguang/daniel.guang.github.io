@@ -1,0 +1,20 @@
+logo_title: Daniel (老赵)
+
+style: black
+
+favicon: /favicon.ico
+
+menu:
+  作品: /project
+  关于: /about
+  Github: https://github.com/Danielguang/
+
+# 做了域名限制，请改成自己的 KEY
+# 若关闭valine 设置enable为false
+valine:
+  enable: false
+  appId: CmCti21ooOOIzFOhEyFkFvR0-gzGzoHsz
+  appKey: FqiyUqbg7McKN2eG0MCewupf
+
+highlight:
+  enable: true
